@@ -1,5 +1,5 @@
 # javascriptexercise
-##javascripttutorial
+## javascripttutorial
 * let
 * if/else
 * function
